@@ -1,6 +1,5 @@
 
 ###> symfony/framework-bundle ###
-/.env
 /.env.test
 /.env.local
 /.env.local.php
@@ -32,3 +31,4 @@ yarn-error.log
 /public/css/.sass-cache
 /public/css/stylesheet.css.map
 /assets/styles/.sass-cache/
+config.bat
